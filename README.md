@@ -19,7 +19,7 @@ Web3 Developer passionate about building the decentralized future.
 
 ## 📫 Connect With Me
 
-- Farcaster: @oxdev
+- Farcaster: @oxdev.base.eth
 - Discord: @oxdev
 ---
 
