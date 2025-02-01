@@ -7,7 +7,7 @@ Web3 Developer passionate about building the decentralized future.
 - **Blockchain:** Solidity, Web3.js, Ethers.js
 - **Frontend:** React.js, Next.js
 - **Backend:** Node.js
-- **Tools:** Hardhat, Truffle, Remix
+- **Tools:** Foundry, Hardhat, Truffle, Remix
 - **Languages:** JavaScript/TypeScript, Solidity
 
 ## 🌐 Web3 Focus
