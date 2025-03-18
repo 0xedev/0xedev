@@ -4,11 +4,11 @@ Web3 Developer passionate about building the decentralized future.
 
 ## 🛠 Tech Stack
 
-- **Blockchain:** Solidity, Web3.js, Ethers.js
-- **Frontend:** React.js, Next.js
+- **Blockchain:** Solidity, Web3.js, Ethers.js, wagmi, Reown {wallet connect}
+- **Frontend:** React.js, Next.js, Frame.js {Farcaster Frames}.
 - **Backend:** Node.js
 - **Tools:** Foundry, Hardhat, Truffle, Remix
-- **Languages:** JavaScript/TypeScript, Solidity
+- **Languages:** JavaScript/TypeScript, Solidity, Vyper, Rust
 
 ## 🌐 Web3 Focus
 
@@ -21,6 +21,7 @@ Web3 Developer passionate about building the decentralized future.
 
 - Farcaster: @oxdev.base.eth
 - Discord: @oxdev
+- X: @oxdev.base.eth
 ---
 
 ⚡ Always building, always learning in the Web3 space.
