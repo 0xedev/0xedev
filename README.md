@@ -5,7 +5,7 @@ Smart Contract Engineer passionate about building secure and innovative solution
 ## 🛠 Tech Stack
 
 - **Blockchain:** Solidity, Web3.js, Ethers.js, wagmi, Reown (wallet connect), Vyper
-- **Frontend:** React.js, Next.js, Frame.js (Farcaster Frames), TypeScript
+- **Frontend:** React.js, Next.js, Frame.js (Farcaster miniapps), TypeScript
 - **Backend:** Node.js
 - **Tools:** Foundry, Hardhat, Truffle, Remix
 - **Security:** Smart Contract Auditing, Vulnerability Analysis
