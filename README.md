@@ -28,13 +28,13 @@ Smart Contract Engineer passionate about building secure and innovative solution
 ### Security Research & Contributions
 - **[Wise Signer](https://github.com/Cyfrin/wise-signer)** - Contributed to this educational platform that helps Web3 users develop critical security skills through interactive challenges and simulations
 
-- **[rebase.finance](https://github.com/Cyfrin/wise-signer)**
+- **[rebase.finance](https://github.com/0xedev/rebase)**
 - Contributed to the rebase Staking platform.
 - **Security Auditor** with validated findings:
   - CodeHawks RustFund Audit: 6 valid findings (3 High, 1 Medium, 2 Low)
   - Participated in PumpSwap audit on Cantina
   - Contributed to Eigen Layer audit on Cantina
-  - Participated in CodeHawks Starknet audit
+  - Participated in CodeHawks Staking Part 2 competitive private audit with 1L
 
 ## 🌐 Web3 Specializations
 
