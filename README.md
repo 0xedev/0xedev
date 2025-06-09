@@ -60,6 +60,10 @@ Smart Contract Engineer passionate about building secure and innovative solution
 - Discord: @oxdev
 - X: [@oxdev.base.eth](https://x.com/oxdev.base.eth)
 
+
+[![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/0xedev)
+
+
 ---
 
 ⚡ Building secure, innovative smart contracts for the decentralized future.
