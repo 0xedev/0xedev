@@ -53,6 +53,9 @@ Full-stack Web3 engineer shipping end-to-end products — from gas-optimized Sol
 🤖 [**InvestreContract**](https://github.com/0xedev/InvestreContract) — Social auto-buy protocol: Farcaster likes/recasts trigger automated token purchases via Uniswap V2/V3/V4 smart routing
 <br/><sub>Solidity 0.8.26 · Foundry · OpenZeppelin</sub>
 
+🍩 [**Donut**](https://github.com/Adefolalu/Donut) — ERC20 token with governance (ERC20Votes), epoch-based mining with halving periods, fee/treasury system & on-chain price discovery
+<br/><sub>Solidity 0.8.19 · Next.js · OpenZeppelin · Vercel</sub>
+
 📊 [**LMSR Prediction Engine**](https://github.com/0xedev/Policast) — Advanced prediction market contracts using Logarithmic Market Scoring Rule for efficient price discovery with early resolution support
 <br/><sub>Solidity · Foundry · Custom math libraries</sub>
 
@@ -99,6 +102,9 @@ Full-stack Web3 engineer shipping end-to-end products — from gas-optimized Sol
 
 🎰 [**Vendyz**](https://github.com/0xedev/Vendyz-vending) — Anonymous wallet vending machine with gacha mechanics: pay USDC, receive a pre-funded wallet with random tokens, NFTs & LP positions. Three tiers + raffle mode + sponsor auctions
 <br/><sub>Solidity · JavaScript · Supabase</sub>
+
+🖼️ [**Glaze**](https://glaze.click) — Creative platform
+<br/><sub>TypeScript · Next.js</sub>
 
 🔧 [**Token Deployer**](https://forge-chi.vercel.app/) — Farcaster mini-app for one-click token deployment
 <br/><sub>TypeScript · Vite · Farcaster SDK</sub>
