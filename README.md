@@ -17,7 +17,9 @@
 
 Full-stack Web3 engineer shipping end-to-end products — from gas-optimized Solidity contracts to production frontends. I build **prediction markets** with LMSR pricing, **AI-powered Farcaster agents**, **MEV-protected trading bots**, and **on-chain gaming systems** — then audit other people's contracts on the side.
 
-**107 repos** · **Solidity · TypeScript · Rust** · building on **Base, Ethereum & Solana** since 2024
+**107 repos** · **20+ shipped dApps** · **6 audit findings (3H/1M/2L)** · building on **Base, Ethereum & Solana** since 2024
+
+> Currently building: [**Clawdfather**](https://www.clawdfather.store/) — autonomous agent platform · [**Glaze**](https://glaze.click) — DONUT protocol analytics on Base
 
 ---
 
@@ -193,5 +195,8 @@ Full-stack Web3 engineer shipping end-to-end products — from gas-optimized Sol
 ---
 
 <div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=0xedev&color=58a6ff&style=flat-square&label=Profile+Views)
+
 <sub>Building secure, full-stack protocols across DeFi, AI agents & on-chain gaming.</sub>
 </div>
