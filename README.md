@@ -53,7 +53,7 @@ Full-stack Web3 engineer shipping end-to-end products — from gas-optimized Sol
 🤖 [**InvestreContract**](https://github.com/0xedev/InvestreContract) — Social auto-buy protocol: Farcaster likes/recasts trigger automated token purchases via Uniswap V2/V3/V4 smart routing
 <br/><sub>Solidity 0.8.26 · Foundry · OpenZeppelin</sub>
 
-📊 **LMSR Prediction Engine** — Advanced prediction market contracts using Logarithmic Market Scoring Rule for efficient price discovery with early resolution support
+📊 [**LMSR Prediction Engine**](https://github.com/0xedev/Policast) — Advanced prediction market contracts using Logarithmic Market Scoring Rule for efficient price discovery with early resolution support
 <br/><sub>Solidity · Foundry · Custom math libraries</sub>
 
 </td>
@@ -61,13 +61,13 @@ Full-stack Web3 engineer shipping end-to-end products — from gas-optimized Sol
 
 **AI Agents & Bots**
 
-🧠 **Investre Agent** — Multi-modal AI agent for Farcaster: fact-checking with Google Search grounding, AI image editing, on-chain analysis, social token giveaways & automated channel moderation
+🧠 [**Investre Agent**](https://github.com/0xedev/investre) — Multi-modal AI agent for Farcaster: fact-checking with Google Search grounding, AI image editing, on-chain analysis, social token giveaways & automated channel moderation
 <br/><sub>TypeScript · Neynar SDK · Non-custodial</sub>
 
-🤖 **MEV-Protected Trading Bot** — Farcaster mini-app trading bot on Base with encrypted wallet management, MEV protection via QuickNode, and multi-source gas optimization
+🤖 [**MEV-Protected Trading Bot**](https://github.com/0xedev/ForgeBot) — Farcaster mini-app trading bot on Base with encrypted wallet management, MEV protection via QuickNode, and multi-source gas optimization
 <br/><sub>TypeScript · viem · SQLite · QuickNode DeFi Bundle</sub>
 
-🏭 **ClawdBot Forge** — Managed platform for running bot instances through a web interface with Prisma-backed database, worker services & Supabase integration
+🏭 [**ClawdBot Forge**](https://github.com/0xedev/clawdfather) — Managed platform for running bot instances through a web interface with Prisma-backed database, worker services & Supabase integration
 <br/><sub>Next.js · Prisma · Supabase · Turborepo</sub>
 
 </td>
@@ -97,7 +97,7 @@ Full-stack Web3 engineer shipping end-to-end products — from gas-optimized Sol
 
 **Infrastructure & Tools**
 
-🎰 **Vendyz** — Anonymous wallet vending machine with gacha mechanics: pay USDC, receive a pre-funded wallet with random tokens, NFTs & LP positions. Three tiers + raffle mode + sponsor auctions
+🎰 [**Vendyz**](https://github.com/0xedev/Vendyz-vending) — Anonymous wallet vending machine with gacha mechanics: pay USDC, receive a pre-funded wallet with random tokens, NFTs & LP positions. Three tiers + raffle mode + sponsor auctions
 <br/><sub>Solidity · JavaScript · Supabase</sub>
 
 🔧 [**Token Deployer**](https://forge-chi.vercel.app/) — Farcaster mini-app for one-click token deployment
