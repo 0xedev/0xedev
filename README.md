@@ -64,13 +64,13 @@ Full-stack Web3 engineer shipping end-to-end products — from gas-optimized Sol
 
 **AI Agents & Bots**
 
-🧠 [**Investre Agent**](https://github.com/0xedev/investre) — Multi-modal AI agent for Farcaster: fact-checking with Google Search grounding, AI image editing, on-chain analysis, social token giveaways & automated channel moderation
+🧠 [**Investre Agent**](https://investre.vercel.app/) — Multi-modal AI agent for Farcaster: fact-checking with Google Search grounding, AI image editing, on-chain analysis, social token giveaways & automated channel moderation
 <br/><sub>TypeScript · Neynar SDK · Non-custodial</sub>
 
-🤖 [**MEV-Protected Trading Bot**](https://github.com/0xedev/ForgeBot) — Farcaster mini-app trading bot on Base with encrypted wallet management, MEV protection via QuickNode, and multi-source gas optimization
+🤖 [**MEV-Protected Trading Bot**](https://forge-bot.vercel.app/) — Farcaster mini-app trading bot on Base with encrypted wallet management, MEV protection via QuickNode, and multi-source gas optimization
 <br/><sub>TypeScript · viem · SQLite · QuickNode DeFi Bundle</sub>
 
-🏭 [**ClawdBot Forge**](https://github.com/0xedev/clawdfather) — Managed platform for running bot instances through a web interface with Prisma-backed database, worker services & Supabase integration
+🏭 [**Clawdfather**](https://www.clawdfather.store/) — Autonomous agent platform to deploy and manage AI agents with ease — centralized dashboard, streamlined setup & Farcaster mini-app integration
 <br/><sub>Next.js · Prisma · Supabase · Turborepo</sub>
 
 </td>
@@ -100,11 +100,11 @@ Full-stack Web3 engineer shipping end-to-end products — from gas-optimized Sol
 
 **Infrastructure & Tools**
 
-🎰 [**Vendyz**](https://github.com/0xedev/Vendyz-vending) — Anonymous wallet vending machine with gacha mechanics: pay USDC, receive a pre-funded wallet with random tokens, NFTs & LP positions. Three tiers + raffle mode + sponsor auctions
+🎰 [**Vendyz**](https://vendyz.vercel.app/) — Anonymous wallet vending machine with gacha mechanics: pay USDC, receive a pre-funded wallet with random tokens, NFTs & LP positions. Three tiers + raffle mode + sponsor auctions
 <br/><sub>Solidity · JavaScript · Supabase</sub>
 
-🖼️ [**Glaze**](https://glaze.click) — Creative platform
-<br/><sub>TypeScript · Next.js</sub>
+🖼️ [**Glaze**](https://glaze.click) — Comprehensive analytics & information hub for the DONUT protocol on Base — mining calculator, auction simulator, analytics dashboard & approved provider directory
+<br/><sub>TypeScript · Next.js · Base</sub>
 
 🔧 [**Token Deployer**](https://forge-chi.vercel.app/) — Farcaster mini-app for one-click token deployment
 <br/><sub>TypeScript · Vite · Farcaster SDK</sub>
@@ -112,7 +112,7 @@ Full-stack Web3 engineer shipping end-to-end products — from gas-optimized Sol
 📊 [**Admin Dashboard**](https://admin-buster.vercel.app/) — Market management interface for Buster
 <br/><sub>TypeScript · Next.js</sub>
 
-🍩 [**Donuettes**](https://github.com/0xedev/Donuettes_Comining) — Mining & comining smart contract system
+🍩 [**Donuettes**](https://donuettes.vercel.app/) — Mining & comining smart contract system
 <br/><sub>Solidity · Foundry</sub>
 
 📡 [**Rebase**](https://github.com/0xedev/rebase) — Contributed to staking platform
