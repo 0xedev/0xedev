@@ -1,0 +1,11 @@
+{
+  "name": "snaplet",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Starter scaffold for the snaplet repository",
+  "scripts": {
+    "dev": "echo \"Add your dev command\"",
+    "build": "echo \"Add your build command\"",
+    "test": "echo \"No tests configured yet\""
+  }
+}
